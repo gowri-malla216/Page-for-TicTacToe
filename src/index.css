@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+
+
+.board {
+  transition: transform 0.3s ease-in-out;
+  position: absolute;
+}
+.realistic-line {
+  border: 1px solid black; /* Solid or dashed for hand-drawn look */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Adds some shadow for depth */
+}
+.tooltip {
+  visibility: hidden; 
+  position: absolute;
+}
+
+.has-tooltip:hover .tooltip {
+  visibility: visible;
+  z-index: 50;
+}
