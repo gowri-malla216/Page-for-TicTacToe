@@ -10,7 +10,7 @@ A simple, interactive, and customizable Tic Tac Toe game built with React.js. Te
 - Responsive design and smooth user interface.
 
 ## Demo
-Check out the live demo: [Tic Tac Toe Game](https://zingy-quokka-d92f2a.netlify.app/)
+Check out the live demo: [Tic Tac Toe Game](https://last-page-in-our-notebook.netlify.app/)
 
 ## Installation
 To run this project locally:
